@@ -1,9 +1,111 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="第 1 页" id="2U2U5Sxn9VDsItHnNJPD">
-    <mxGraphModel>
+    <mxGraphModel dx="1300" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="515" width="560" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="560" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4OmKr7_ZskJaEu8Mqmr-1" target="G4OmKr7_ZskJaEu8Mqmr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Immediate&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Feedback&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4OmKr7_ZskJaEu8Mqmr-3">
+          <mxGeometry x="-0.25" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Environment&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4OmKr7_ZskJaEu8Mqmr-2" target="G4OmKr7_ZskJaEu8Mqmr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Optimizer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="470" as="sourcePoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="470" />
+              <mxPoint x="310" y="170" />
+              <mxPoint x="410" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Action&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4OmKr7_ZskJaEu8Mqmr-12">
+          <mxGeometry x="-0.2169" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Optimized Agentic&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Systems&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-7" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Iterative Feedback and Self-Reflection&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-9" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Real-Time Reward Shaping&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-10" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Dynamic Parameter Tuning&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4OmKr7_ZskJaEu8Mqmr-17" target="G4OmKr7_ZskJaEu8Mqmr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Structured&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Batch-based&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Feedback&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4OmKr7_ZskJaEu8Mqmr-15">
+          <mxGeometry x="-0.25" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Curated Datasets&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="330" y="525" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4OmKr7_ZskJaEu8Mqmr-19" target="G4OmKr7_ZskJaEu8Mqmr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Optimizer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="330" y="675" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4OmKr7_ZskJaEu8Mqmr-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Action&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4OmKr7_ZskJaEu8Mqmr-29">
+          <mxGeometry x="0.3355" relative="1" as="geometry">
+            <mxPoint x="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Optimized Agentic&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Systems&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="330" y="795" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="490" y="675" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-24" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: 600; font-size: 15px; line-height: inherit; font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; vertical-align: baseline; caret-color: rgba(0, 0, 0, 0.9); color: rgba(0, 0, 0, 0.9);&quot;&gt;Supervised Fine-Tuning&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="655" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-26" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: 600; line-height: inherit; font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; vertical-align: baseline; caret-color: rgba(0, 0, 0, 0.9); color: rgba(0, 0, 0, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Instruction Optimization&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="715" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Environment&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="795" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Online Agent Self-Improvement&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G4OmKr7_ZskJaEu8Mqmr-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Offline Agent Self-Improvement&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="320" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
